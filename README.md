@@ -1,4 +1,4 @@
-# *__React Course Project__* - react-gif-expert
+# *__React Project__* - react-gif-expert
 Welcome to my React course project repository! This repository contains the codebase I developed while completing a course on React. Throughout the course, I delved into the fundamentals of React.js, gaining hands-on experience in building dynamic and interactive web applications.
 
 ## *Features:*
