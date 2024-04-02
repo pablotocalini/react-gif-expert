@@ -9,7 +9,10 @@ Welcome to my React course project repository! This repository contains the code
 - **Responsive Design:** Ensured optimal user experience across various devices and screen sizes through responsive design practices.
 
 ## Technologies Used:
-- React
+- React 18.0
+- Vite
+- Jest
+- React Testing Library
 - CSS / styled-components
   
 ## How to Run:
